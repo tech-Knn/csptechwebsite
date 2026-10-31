@@ -167,11 +167,12 @@ nav ul li.nav-cta a:hover { background: var(--primary-light); }
 }
 .hero-content h1 {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 48px;
+  font-size: 44px;
   font-weight: 800;
   line-height: 1.15;
   margin-bottom: 16px;
   text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+  white-space: nowrap;
 }
 .hero-content p {
   font-size: 16px;
